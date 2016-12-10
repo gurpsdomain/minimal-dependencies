@@ -89,6 +89,11 @@
             <name>Maven Central Repository</name>
             <url>http://repo1.maven.org/maven2</url>
         </repository>
+        <repository>
+            <id>OSSHR</id>
+            <name>Open Source Project Repository Hosting</name>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+        </repository>
     </repositories>
 
     <pluginRepositories>
